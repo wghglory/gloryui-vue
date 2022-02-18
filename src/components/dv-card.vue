@@ -1,8 +1,8 @@
 <template>
   <div
-    className="dv-card group bg-white rounded-lg shadow-md dark:bg-gray-800 hover:border-indigo-500 border-2 border-transparent flex flex-col"
+    class="dv-card group bg-white rounded-lg shadow-md dark:bg-gray-800 hover:border-indigo-500 border-2 border-transparent flex flex-col"
   >
-    <header className="dv-card-header relative text-2xl py-4 px-8">
+    <header class="dv-card-header relative text-2xl py-4 px-8">
       <slot name="header"></slot>
     </header>
     <div class="dv-card-body px-8 py-4">
