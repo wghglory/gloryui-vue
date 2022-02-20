@@ -1,5 +1,5 @@
 {
-  "name": "dv-components",
+  "name": "@wghglory/dv-components",
   "license": "MIT",
   "author": "Guanghui Wang <guanghui-wang@foxmail.com>",
   "version": "0.0.1",
@@ -42,5 +42,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wghglory/dv-components.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/wghglory"
   }
 }
